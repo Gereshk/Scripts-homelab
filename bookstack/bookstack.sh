@@ -1,13 +1,3 @@
- ghost       | localhost | *B1B1239892435BFA77392002E2BA942B642834DA
-
- "database": {
-    "client": "mysql",
-    "connection": {
-      "host": "localhost",
-      "user": "ghost",
-      "password": "585b6a8704b7c35a1dafd50330c05015",
-      "database": "ghost"
-
 #!/bin/bash
 
 echo "This script installs a new BookStack instance on a fresh Ubuntu 22.04 server."

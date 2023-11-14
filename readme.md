@@ -1,1 +1,1 @@
-#Scrpits used to install BookStack on Proxmox
+# Scrpits used to install BookStack on Proxmox
